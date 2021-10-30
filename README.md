@@ -1,5 +1,5 @@
-Mass_Setup_EA_v0.1.ex4: Dùng để setup EA hàng loạt loạt cho các cặp tiền
-CloseCharts_v0.1.ex4: Dùng để close tất cả các chart đang mở
+- Mass_Setup_EA_v0.1.ex4: Dùng để setup EA hàng loạt loạt cho các cặp tiền
+- CloseCharts_v0.1.ex4: Dùng để close tất cả các chart đang mở
 
 - Một số input:
    - templates\00.tpl: Đây là template chứa tất cả Indicator và EA. (Có thể tạo file này bằng cách click phải vô chart, chọn Template, Save Template)
